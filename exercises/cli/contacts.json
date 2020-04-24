@@ -1,7 +1,1 @@
-{
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
-    "lastName": "asfdasdf",
-    "phoneNumber": "asfdsf"
-  }
-}
+{"adfsadf asfdasdf":{"firstName":"adfsadf","lastName":"asfdasdf","phoneNumber":"asfdsf"},"john doe":{"firstName":"john","lastName":"doe","phoneNumber":"1234"}}
